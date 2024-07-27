@@ -15,7 +15,7 @@ I'm currently a student studying environmental biology and geography at Ohio Uni
 ## Past Projects:
 ### Assessing the Effects of Environmental Variables and Landscape Change on Tree Stands at The Ridges Land Lab ([repo](https://github.com/oxyppgyn/ou-field-ecology-tree-proj))
 * A class project looking at the distribution of trees within the Ridges Land Lab, Athens, OH and the effects of habitat variables on tree assemblages.
-### Birding Checklist for Hopewell Culture National Historical Park ([view]())
+### Birding Checklist for Hopewell Culture National Historical Park ([view](https://github.com/oxyppgyn/oxyppgyn/blob/7b2bf2eebe685e3046035e61cd2523549599d58f/images/HOCU%20Birding%20Checklist.pdf))
 * An updated birding checklist that covers the species of Hopewell Culture National Historical Park.
 * Based on a checklist dating to 1999, iNaturalist and eBird distribution data, and surveys from the NPS Heartland Network.
 ### Building Accessibility at Ohio University ([repo](https://github.com/oxyppgyn/ou-building-accessibility))
