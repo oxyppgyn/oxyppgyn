@@ -1,5 +1,7 @@
 # Hi there, I'm Tanner 👋
-I'm currently a student studying environmental biology and geography at Ohio University. I fell into CS/programming through my love of GIS and ecology. My specific interests within these fields include: spatial and movement ecology, ecological citizen science data, white-tailed deer population dynamics, and global change ecology. So far, I've primarily worked with Python, but am slowly building a proficiency in R as well. 
+I'm currently a student studying environmental biology and geography at Ohio University. My specific interests related to the environment (and topics I hope to explore more in the future) include: spatial and movement ecology, ecological citizen science data, white-tailed deer population dynamics, and global change ecology. 
+
+I initially fell into CS/programming through its use in GIS and ecology, but eventually found it to be a new passion I plan on continually developing as I continue towards a career in the environmental industry. So far, I've primarily worked with Python but am slowly building a proficiency in R as well.
 <br></br>
 ## Current Projects:
 ### Debonair, a Python package (_Coming Soon!_)
