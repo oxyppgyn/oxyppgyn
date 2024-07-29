@@ -33,6 +33,7 @@ Indiana University       | Main                                            | htt
 ## General Ecology Data
 * eMammal (https://emammal.si.edu/browse-data)
 * National Park Service IRMA Datastore (https://irma.nps.gov/DataStore)
+* National Park Service Data API (https://www.nps.gov/subjects/developer/index.htm)
 * Movebank - Animal Tracking (https://www.movebank.org)
 * iNaturalist API (https://api.inaturalist.org/v1/docs)
 <br></br>
