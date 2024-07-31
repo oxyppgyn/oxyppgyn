@@ -10,11 +10,12 @@ Main Source                  | Department/Group                                |
 Esri                         | Landsat                                         | https://landsat2.arcgis.com/arcgis/rest/services
 Esri                         | N/A                                             | https://services.arcgisonline.com/arcgis/rest/services
 Esri                         | N/A                                             | https://services1.arcgis.com/fBc8EJBxQRMcHlei/ArcGIS/rest/services
+Esri                         | N/A                                             | https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/ArcGIS/rest/services/
 Esri                         | N/A                                             | https://services.arcgis.com/xOi1kZaI0eWDREZv/arcgis/rest/services
 Esri                         | N/A                                             | https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/ArcGIS/rest/services
 Esri                         | N/A                                             | https://services7.arcgis.com/n1YM8pTrFmm7L4hs/ArcGIS/rest/services
 Esri                         | N/A                                             | https://sampleserver6.arcgisonline.com/arcgis/rest/services
-United States Government     | BLM                                             |https://gis.blm.gov/arcgis/rest/services
+United States Government     | BLM                                             | https://gis.blm.gov/arcgis/rest/services
 United States Government     | NOAA                                            | https://mapservices.weather.noaa.gov/eventdriven/rest/services
 United States Government     | USDOT                                           | https://geo.dot.gov/server/rest/services
 United States Government     | USEPA                                           | https://gispub.epa.gov/arcgis/rest/services
