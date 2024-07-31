@@ -10,7 +10,7 @@ Main Source                  | Department/Group                                |
 Esri                         | Landsat                                         | https://landsat2.arcgis.com/arcgis/rest/services
 Esri                         | N/A                                             | https://services.arcgisonline.com/arcgis/rest/services
 Esri                         | N/A                                             | https://services1.arcgis.com/fBc8EJBxQRMcHlei/ArcGIS/rest/services
-Esri                         | N/A                                             | https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/ArcGIS/rest/services/
+Esri                         | N/A                                             | https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/ArcGIS/rest/services
 Esri                         | N/A                                             | https://services.arcgis.com/xOi1kZaI0eWDREZv/arcgis/rest/services
 Esri                         | N/A                                             | https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/ArcGIS/rest/services
 Esri                         | N/A                                             | https://services7.arcgis.com/n1YM8pTrFmm7L4hs/ArcGIS/rest/services
@@ -24,8 +24,10 @@ United States Government     | USGS (The National Map)                         |
 State of Ohio                | Ohio Environmental Protection Agency            | https://geo.epa.ohio.gov/arcgis/rest/services
 State of Ohio                | Office of Information & Technology              | https://geo1.oit.ohio.gov/arcgis/rest/services
 State of Ohio                | Department of Natural Resources                 | https://gis.ohiodnr.gov/arcgis_site2/rest/services
+State of Ohio                | Public Utilities Commission                     | https://maps.puco.ohio.gov/arcgis/rest/services
 Indiana University           | N/A                                             | https://portal.igs.indiana.edu/arcgis/rest/services
-German Government            | North Rhine-Westphalia                          | https://www.arcgishostedserver.nrw.de/arcgis/rest/services/
+German Government            | North Rhine-Westphalia                          | https://www.arcgishostedserver.nrw.de/arcgis/rest/services
+Ducks Unlimited              | N/A                                             | https://gisweb.ducks.org/server/rest/services
 
 **Note**: "Main" is used above to indicate the service is not associated with a specific department or group within the organization.
 <br></br>
