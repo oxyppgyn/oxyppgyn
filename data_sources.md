@@ -35,7 +35,7 @@ N/A                          | https://sampleserver6.arcgisonline.com/arcgis/res
 ## United States Government
 Organization                                              | Subgroup                                        | Endpoint URL
 ---                                                       | ---                                             | ---
-Bureau of Land Management                                 | N/A                                             | https://gis.blm.gov/arcgis/rest/services
+Bureau of Land Management (BLM)                           | N/A                                             | https://gis.blm.gov/arcgis/rest/services
 National Oceanic and Atmospheric Administration (NOAA)    | Weather                                         | https://mapservices.weather.noaa.gov/eventdriven/rest/services
 Department of Transportation (USDOT)                      | N/A                                             | https://geo.dot.gov/server/rest/services
 Environmnetal protection Agency (USEPA)                   | N/A                                             | https://gispub.epa.gov/arcgis/rest/services
