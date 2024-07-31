@@ -7,6 +7,7 @@ A set of potential data sources for GIS and ecology projects.
 ## GIS API Endpoints
 Main Source                  | Department/Group                                | Endpoint URL
 ---                          | ---                                             | ---
+Esri                         | Landsat                                         | https://landsat2.arcgis.com/arcgis/rest/services
 Esri                         | N/A                                             | https://services.arcgisonline.com/arcgis/rest/services
 Esri                         | N/A                                             | https://services1.arcgis.com/fBc8EJBxQRMcHlei/ArcGIS/rest/services
 Esri                         | N/A                                             | https://services.arcgis.com/xOi1kZaI0eWDREZv/arcgis/rest/services
