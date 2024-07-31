@@ -4,6 +4,21 @@ A set of potential data sources for GIS and ecology projects.
 ## General Data
 * US Federal Data (https://catalog.data.gov/dataset)
 <br></br>
+## General Geography Data
+* Ohio DOT - Aerial Imagery Archive (https://www.transportation.ohio.gov/working/engineering/cadd-mapping/survey/aerial-imagery)
+* NOAA - GOES Imagery Viewer (https://www.star.nesdis.noaa.gov/GOES/](https://www.star.nesdis.noaa.gov/GOES)
+* NOAA - U.S. Interagency Elevation Inventory (https://coast.noaa.gov/inventory)
+<br></br>
+## General Ecology Data
+* eMammal (https://emammal.si.edu/browse-data)
+* National Park Service IRMA Datastore (https://irma.nps.gov/DataStore)
+* National Park Service Data API (https://www.nps.gov/subjects/developer/index.htm)
+* Movebank - Animal Tracking (https://www.movebank.org)
+* iNaturalist API (https://api.inaturalist.org/v1/docs)
+<br></br>
+## Random Data (just for fun)
+* Bigfoot Field Researchers Organization (https://www.bfro.net)
+<br></br>
 ## GIS API Endpoints
 ### Esri
 Topic Area                   | Endpoint URL
@@ -48,19 +63,4 @@ Organization                                              | Subgroup            
 ---                                                       | ---                                             | ---
 Ducks Unlimited                                           | N/A                                             | https://gisweb.ducks.org/server/rest/services
 
-**Note**: "Main" is used above to indicate the service is not associated with a specific department or group within the organization.
-<br></br>
-## General Geography Data
-* Ohio DOT - Aerial Imagery Archive (https://www.transportation.ohio.gov/working/engineering/cadd-mapping/survey/aerial-imagery)
-* NOAA - GOES Imagery Viewer (https://www.star.nesdis.noaa.gov/GOES/](https://www.star.nesdis.noaa.gov/GOES)
-* NOAA - U.S. Interagency Elevation Inventory (https://coast.noaa.gov/inventory)
-<br></br>
-## General Ecology Data
-* eMammal (https://emammal.si.edu/browse-data)
-* National Park Service IRMA Datastore (https://irma.nps.gov/DataStore)
-* National Park Service Data API (https://www.nps.gov/subjects/developer/index.htm)
-* Movebank - Animal Tracking (https://www.movebank.org)
-* iNaturalist API (https://api.inaturalist.org/v1/docs)
-<br></br>
-## Random Data (just for fun)
-* Bigfoot Field Researchers Organization (https://www.bfro.net)
+
