@@ -21,6 +21,7 @@ United States Government     | USDOT                                           |
 United States Government     | USEPA                                           | https://gispub.epa.gov/arcgis/rest/services
 United States Government     | USGS                                            | https://gis1.usgs.gov/arcgis/rest/services
 United States Government     | USGS (The National Map)                         | https://carto.nationalmap.gov/arcgis/rest/services
+United States Government     | USGS (The National Map)                         | https://hydro.nationalmap.gov/arcgis/rest/services
 State of Ohio                | Ohio Environmental Protection Agency            | https://geo.epa.ohio.gov/arcgis/rest/services
 State of Ohio                | Office of Information & Technology              | https://geo1.oit.ohio.gov/arcgis/rest/services
 State of Ohio                | Department of Natural Resources                 | https://gis.ohiodnr.gov/arcgis_site2/rest/services
