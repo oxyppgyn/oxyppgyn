@@ -14,6 +14,7 @@ Esri                         | N/A                                             |
 Esri                         | N/A                                             | https://services6.arcgis.com/zxOMWqh0yAD6mMsJ/ArcGIS/rest/services
 Esri                         | N/A                                             | https://services7.arcgis.com/n1YM8pTrFmm7L4hs/ArcGIS/rest/services
 Esri                         | N/A                                             | https://sampleserver6.arcgisonline.com/arcgis/rest/services
+United States Government     | BLM                                             |https://gis.blm.gov/arcgis/rest/services
 United States Government     | NOAA                                            | https://mapservices.weather.noaa.gov/eventdriven/rest/services
 United States Government     | USDOT                                           | https://geo.dot.gov/server/rest/services
 United States Government     | USEPA                                           | https://gispub.epa.gov/arcgis/rest/services
