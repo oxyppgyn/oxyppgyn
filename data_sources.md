@@ -44,7 +44,8 @@ U.S. Geologic Survey (USGS)                               | The National Map    
 U.S. Geologic Survey (USGS)                               | The National Map                                | https://hydro.nationalmap.gov/arcgis/rest/services
 State of Ohio                                             | Ohio Environmental Protection Agency            | https://geo.epa.ohio.gov/arcgis/rest/services
 State of Ohio                                             | Office of Information & Technology              | https://geo1.oit.ohio.gov/arcgis/rest/services
-State of Ohio                                             | Department of Natural Resources                 | https://gis.ohiodnr.gov/arcgis_site2/rest/services
+State of Ohio                                             | Department of Natural Resources                 | https://gis2.ohiodnr.gov/arcgis/rest/services
+State of Ohio                                             | Department of Natural Resources                 | https://gis2.ohiodnr.gov/arcgis/rest/services
 State of Ohio                                             | Public Utilities Commission                     | https://maps.puco.ohio.gov/arcgis/rest/services
 
 ## Other Governments
