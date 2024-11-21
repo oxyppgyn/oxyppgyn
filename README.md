@@ -1,16 +1,11 @@
 # Hi there, I'm Tanner 🌎 🦌  🌱
-I'm currently a student studying environmental biology and geography at Ohio University. My specific interests related to the environment (and topics I hope to explore more in the future) include: spatial and movement ecology, ecological citizen science data, white-tailed deer population dynamics, and global change ecology. 
+I'm currently a student studying environmental biology and geography at Ohio University. My research interests include: landscape ecology, camera traps, citizen + collaborative science, and computational ecology. In the past, I've worked on projects related to white-tailed deer and currently assist with small mammal research projects at Ohio University.
 
 I initially fell into CS/programming through its use in GIS and ecology, but eventually found it to be a new passion I plan on continually developing as I continue towards a career in the environmental industry. So far, I've primarily worked with Python but am slowly building a proficiency in R as well.
 <br></br>
 ## Current Projects:
-### Debonair, a Python package (_Coming Soon!_)
-  * focused on GIS and ecology data processing and management tools.
-  * Debonair is planned to include: ArcGIS Portal/Online item management tools, geoprocessing tools, and GIS-related file management tools. In the future, ecology-focused content such as wildlife occupancy tools are planned to be added.
-  * A standalone ArcGIS toolbox is planned to be released with most content from this package in the future. 
-### NPSpecies WebMap Application
-* Utilizing the NPSpecies API endpoint and providing a more user-friendly interface for location park units with certain species/taxa.
-* Currently, there is no reliable method to search the database by species, and no visualization tools.
+### Scale-dependent Responses to Habitat Configuration and Fragmentation in White-tailed Deer
+* My capstone research project for geography, focused on the effects of spatial scaling in ecological studies using white-tailed deer as a model.
 ### Hopewell Mound Group Deer Population Study
 * A camera trap study looking at deer populations within Hopewell Culture National Historical Park.
 <br></br>
