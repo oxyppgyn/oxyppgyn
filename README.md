@@ -1,6 +1,11 @@
 # Hi there, I'm Tanner 🌎 🦌  🌱
 I'm currently a student studying environmental biology and geography at Ohio University. My research interests include: landscape ecology, camera traps, citizen + collaborative science, and computational ecology. In the past, I've worked on projects related to white-tailed deer and currently assist with small mammal research projects at Ohio University.
 <br></br>
+
+## Current Projects:
+### Modeling current-day distributions of weasels in Ohio in the face of limited focused survey data
+
+<br></br>
 ## Past Projects:
 ### Scale-dependent Responses to Habitat Configuration and Fragmentation in White-tailed Deer
 * My capstone research project for geography, focused on the effects of spatial scaling in ecological studies using white-tailed deer as a model.
