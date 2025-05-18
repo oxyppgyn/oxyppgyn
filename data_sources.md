@@ -6,14 +6,18 @@ This is a compilation of online, openly accessible datasets I have compiled over
 ## General or Multidisciplinary
 Name | URL | Description
 --- | --- | ---
+Google Dataset Search | [datasetsearch.research.google.com](https://datasetsearch.research.google.com) | Dataset Search is a search engine for datasets. Using a simple keyword search, users can discover datasets hosted in thousands of repositories across the Web.
 Kaggle | [kaggle.com/datasets](https://kaggle.com/datasets) | Kaggle is the world's largest data science community with powerful tools and resources to help you achieve your data science goals.
 AWS Open Data | [registry.opendata.aws](https://registry.opendata.aws) | AWS Data Exchange makes it easy to find datasets made publicly available through AWS services.
 Data Dryad | [datadryad.org](https://datadryad.org) | Dryad is an international open-access repository of research data, especially data underlying scientific and medical publications (mainly of evolutionary, genetic, and ecology biology). -- Wikipedia
 Data.gov | [data.gov](https://data.gov) | The United States Government’s open data site is designed to unleash the power of government open data to inform decisions by the public and policymakers, drive innovation and economic activity, achieve agency missions, and strengthen the foundation of an open and transparent government.
 Zenodo | [zenodo.org](https://zenodo.org) | Zenodo is a general-purpose open repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. -- Wikipedia
+OpenML | [www.openml.org/](https://www.openml.org) | OpenML is an open platform for sharing datasets, algorithms, and experiments - to learn how to learn better, together.
 OpenAIRE | [explore.openaire.eu](https://explore.openaire.eu) | A comprehensive and open dataset of research information covering 196M publications, 79M research data, 736K research software items, from 151K data sources, linked to 4M grants and 437K organizations. [as of 05/17/25]
 Papers with Code | [paperswithcode.com](https://paperswithcode.com) | The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables.
 ecosyste.ms | [ecosyste.ms](https://repos.ecosyste.ms) | An open API service providing repository metadata for many open source software ecosystems.
+OSF | [osf.io](https://osf.io) | OSF is a free, open platform to support your research and enable collaboration.
+
 
 ## Ecology & Wildife
 Name | URL | Description
