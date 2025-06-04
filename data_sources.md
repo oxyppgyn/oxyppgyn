@@ -35,22 +35,25 @@ EMammal | [emammal.si.edu](https://emammal.si.edu/browse-data) | eMammal is a da
 ## Physical World, Landscapes, and General Physical Sciences
 Name | URL | Description
 --- | --- | ---
-NASA Open Data Portal | [data.nasa.gov/dataset](https://data.nasa.gov/dataset) | Data.nasa.gov is NASA’s publicly available metadata repository, hosting diverse datasets related to science, space exploration, aeronautics, and more.
+NASA Open Data Portal | [data.nasa.gov](https://data.nasa.gov/dataset) | Data.nasa.gov is NASA’s publicly available metadata repository, hosting diverse datasets related to science, space exploration, aeronautics, and more.
 Multi-Resolution Land Characteristics (MRLC) | [mrlc.gov/data](https://www.mrlc.gov/data) | he Multi-Resolution Land Characteristics (MRLC) consortium is a group of federal agencies who coordinate and generate consistent and relevant land cover information at the national scale for a wide variety of environmental, land management, and modeling applications.
 Open Topography | [opentopography.org](https://opentopography.org) | OpenTopography facilitates efficient access to topography data, tools, and resources to advance our understanding of the Earth’s surface, vegetation, and built environment.
 National Park Service GIS, Cartography, and Mapping Tools and Data | [nps.gov/.../tools-and-data](https://www.nps.gov/subjects/gisandmapping/tools-and-data.htm) | Geospatial Data Standards help ensure that data used to report on the status of NPS assets is accurate and up-to-date. Additionally, the subsequent aggregation of data on an enterprise level enables the NPS to make better data-driven decisions at the Park, Region, and National levels. [This page links to other sources]
 AmeriGEO | [amerigeo.org](https://www.amerigeo.org/) | AmeriGEO works with Inter-American and Global partners to provide services that support the use of Earth Observations and other data to enhance decision-making. The purpose is to provide discoverable, accessible, and usable data, information and tools for decision-making. 
-ScienceBase | [sciencebase.gov/catalog](https://www.sciencebase.gov/catalog) | A U.S. Geological Survey (USGS) Trusted Digital Repository providing access to scientific data products and resources.
+ScienceBase | [sciencebase.gov](https://www.sciencebase.gov/catalog) | A U.S. Geological Survey (USGS) Trusted Digital Repository providing access to scientific data products and resources.
 Geospatial Data Catalog | [geospatial.community](https://www.geospatial.community) | The platform aggregates [geospatial] datasets from various trusted sources, making them easily searchable and accessible.
 Daymet | [daymet.ornl.gov](daymet.ornl.gov) | Daymet provides long-term, continuous, gridded estimates of daily weather and climatology variables by interpolating and extrapolating ground-based observations through statistical modeling techniques.
 GOES Image Viewer | [star.nesdis.noaa.gov/GOES](https://www.star.nesdis.noaa.gov/GOES) | NOAA’s Geostationary Operational Environmental Satellites (GOES)–R Series is the Western Hemisphere’s most sophisticated weather-observing and environmental-monitoring system. The GOES-R Series provides advanced imagery and atmospheric measurements, real-time mapping of lightning activity, and monitoring of space weather.
 U.S. Interagency Elevation Inventory | [coast.noaa.gov/inventory](https://coast.noaa.gov/inventory) | A nationwide listing of known publicly available high-accuracy topographic and bathymetric source elevation data for the United States and its territories. The inventory provides a single resource for information about all known completed and in-progress broad-area public domain elevation data.
+DIVA GIS | [diva-gis.org](https://diva-gis.org/data.html) | DIVA-GIS is a free computer program for mapping and geographic data analysis (a geographic information system (GIS). With DIVA-GIS you can make maps of the world, or of a very small area, using, for example, state boundaries, rivers, a satellite image, and the locations of sites where animal species were observed. We also provide free spatial data for the whole world that you can use in DIVA-GIS or other programs.
+GADM (Global Administrative Areas) | [gadm.org](https://gadm.org/data.html) | GADM wants to map the administrative areas of all countries, at all levels of sub-division. We provide data at high spatial resolutions that includes an extensive set of attributes. This is a never ending project, but we are happy to share what we have.
 
-
-## History & Archeology
+## Social Sciences: History, Archeology, Sociology, etc.
 Name | URL | Description
 --- | --- | ---
 The Virtual Curation Laboratory | [vcuarchaeology3d.wordpress.com](https://vcuarchaeology3d.wordpress.com/about) | The Virtual Curation Laboratory at VCU partnered with the U.S. Department of Defense’s Legacy Program to develop a digital data project that incorporates the use of a three-dimensional object scanner in recording American Indian and historic artifacts for analysis and conservation.
+The Humanitarian Data Exchange | [humdata.org](https://data.humdata.org/dataset) | The Humanitarian Data Exchange (HDX) is an open platform for sharing data across crises and organisations. Launched in July 2014, the goal of HDX is to make humanitarian data easy to find and use for analysis. Our growing collection of datasets has been accessed by users in over 250 countries and territories.
+World Bank Group | [worldbank.org](https://datacatalog.worldbank.org/home) | The Data Catalog is a project to provide a more effective means for capture, acquisition, curation, access and use of development-Data Catalog data throughout the World Bank Group. The goal is to maximize the value and investment in data by increasing the potential for the data to be shared and reused, to minimize transaction costs in finding relevant data and data methodologies, and to prevent duplication.
 
 
 <br><br>
