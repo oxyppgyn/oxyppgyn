@@ -11,8 +11,6 @@ I'm a recent graduate of Ohio University, where I studied environmental biology 
 ## Current/Upcoming Projects:
 ### Modeling weasel distributions in Ohio
 * This is a continuing project from my time at Ohio University, focusing on determining future sampling efforts for weasels based on limited historical data/knowledge on their populations.
-### Debonair: an ArcGIS toolbox and Python package
-* A compilation of tools I've created in the past while working in ArcGIS Pro that others might find useful.
 
 <br></br>
 ## Past Projects:
