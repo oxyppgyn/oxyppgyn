@@ -23,7 +23,7 @@ OECD | [oecd.org](https://www.oecd.org) | The OECD (Organisation for Economic Co
 ## Ecology & Wildife
 Name | URL | Description
 --- | --- | ---
-VertNet | [portal.vertnet.org](portal.vertnet.org/search) | VertNet is a NSF-funded collaborative project that makes biodiversity data free and available on the web. VertNet is a tool designed to help people discover, capture, and publish biodiversity data.
+VertNet | [portal.vertnet.org](https://portal.vertnet.org/search) | VertNet is a NSF-funded collaborative project that makes biodiversity data free and available on the web. VertNet is a tool designed to help people discover, capture, and publish biodiversity data.
 iDigiBio | [portal.idigbio.org/portal](https://portal.idigbio.org/portal/search) | Through ADBC, data and images for millions of biological specimens are being made available in electronic format for the research community, government agencies, students, educators, and the general public.
 Labeled Information Library of Alexandria: Biology and Conservation | [lila.science/datasets](https://lila.science/datasets) | LILA BC is a repository for data sets related to biology and conservation, intended as a resource for both machine learning (ML) researchers and those that want to harness ML for biology and conservation.
 Wildlife Insights | [wildlifeinsights.org](https://www.wildlifeinsights.org/) | Wildlife Insights streamlines decision-making by providing machine learning models and other tools to manage, analyze and share camera trap data. With access to reliable data, everyone can make better decisions to help wildlife thrive.
