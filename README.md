@@ -23,6 +23,3 @@ My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This 
 * Based on a checklist dating to 1999, iNaturalist and eBird distribution data, and surveys from the NPS Heartland Network.
 ### Building accessibility at Ohio University ([repo](https://github.com/oxyppgyn/ou-building-accessibility))
 * A class project mapping accessibility across Ohio University's campus using a simple index.
-
-
-https://github.com/oxyppgyn/oxyppgyn/blob/7b2bf2eebe685e3046035e61cd2523549599d58f/
