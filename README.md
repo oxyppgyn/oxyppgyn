@@ -1,7 +1,7 @@
 # Hi there, I'm Tanner 🌎 🦌  🌱
 I'm a recent graduate of Ohio University, where I studied environmental biology and geography. My main focus is wildlife, with a specific interest in camera traps, citizen science data, landscape ecology, and computational methods in ecology. In the past, I've mainly done projects focused on camera traps and mammal populations and hope to continue working in this general area going forward. 
 
-My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This version is always regularly update and can be a few months out of date.
+My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This version isn't always regularly update and can be a few months out of date.
 
 [Here](data_sources.md) is a list of data sources covering biological and spatial data that may be useful if you're searching for things to use (mainly for my own reference).
 
