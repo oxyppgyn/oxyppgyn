@@ -8,7 +8,7 @@ My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This 
 <br>
 
 ## Current/Continuing Projects:
-### _Camra_: R Package for managing camera trap data ([repo](https://github.com/oxyppgyn/camRa))
+### _CamRa_: R Package for managing camera trap data ([repo](https://github.com/oxyppgyn/camRa))
 * Package focusing on making it easier to deal with detection data (i.e., MegaDetector), manipulate images, and get pull data from images/camera trap-related files.
 
 <br>
