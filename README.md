@@ -7,9 +7,12 @@ My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This 
 
 <br>
 
-## Current/Continuing Projects:
+## Current/Continuing Projects (on Github):
 ### _CamRa_: R Package for managing camera trap data ([repo](https://github.com/oxyppgyn/camRa))
 * Package focusing on making it easier to deal with detection data (i.e., MegaDetector), manipulate images, and get pull data from images/camera trap-related files.
+
+### Weasel distribution models for Ohio & Indiana ([repo](https://github.com/oxyppgyn/oh-in-weasel-dist-model))
+* Modeling project using integrated nested Laplace approximation (INLA) to model the distributions (or, more specifically relative abundance) of three species of weasel across Ohio and Indiana
 
 <br>
 
