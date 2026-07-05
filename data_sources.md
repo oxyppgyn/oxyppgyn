@@ -32,6 +32,7 @@ Movebank | [movebank.org](https://www.movebank.org/cms/webapp?gwt_fragment=page=
 EMammal | [emammal.si.edu](https://emammal.si.edu/browse-data) | eMammal is a data management system and archive for camera trap research projects. This cyber-tool is designed to not only be useful to scientists, but also to the citizen scientists who aid scientists in photo collection. 
 SystemaNaturae | [systemanaturae.org](https://systemanaturae.org/datasets) | Systema Naturae is a web platform and we index research Datasets and Conservation Projects on Wildlife. We believe in Open data and the Datasets in our website are either submitted by people from across the world or indexed by our web crawler which searches the internet actively for research Datasets and Projects.
 sPlot | [idiv.de](https://www.idiv.de/research/projects/splot) | sPlot contains more than 2.5 million records with full lists of plant species co-occurring in small areas (plots).
+The Ranges Project (Ranges) [ranges-network.org](https://ranges-network.org/) | Ranges is an NSF-funded project that seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
 
 
 ## Physical World, Landscapes, and General Physical Sciences
@@ -49,6 +50,7 @@ GOES Image Viewer | [star.nesdis.noaa.gov/GOES](https://www.star.nesdis.noaa.gov
 U.S. Interagency Elevation Inventory | [coast.noaa.gov/inventory](https://coast.noaa.gov/inventory) | A nationwide listing of known publicly available high-accuracy topographic and bathymetric source elevation data for the United States and its territories. The inventory provides a single resource for information about all known completed and in-progress broad-area public domain elevation data.
 DIVA GIS | [diva-gis.org](https://diva-gis.org/data.html) | DIVA-GIS is a free computer program for mapping and geographic data analysis (a geographic information system (GIS). With DIVA-GIS you can make maps of the world, or of a very small area, using, for example, state boundaries, rivers, a satellite image, and the locations of sites where animal species were observed. We also provide free spatial data for the whole world that you can use in DIVA-GIS or other programs.
 GADM (Global Administrative Areas) | [gadm.org](https://gadm.org/data.html) | GADM wants to map the administrative areas of all countries, at all levels of sub-division. We provide data at high spatial resolutions that includes an extensive set of attributes. This is a never ending project, but we are happy to share what we have.
+Data Basin | [databasin.org](https://databasin.org) | The core of Data Basin is free and provides open access to thousands of scientifically-grounded, biological, physical, and socio-economic datasets.
 
 ## Social Sciences: History, Archeology, Sociology, etc.
 Name | URL | Description
