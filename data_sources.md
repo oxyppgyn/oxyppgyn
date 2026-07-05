@@ -32,7 +32,7 @@ Movebank | [movebank.org](https://www.movebank.org/cms/webapp?gwt_fragment=page=
 EMammal | [emammal.si.edu](https://emammal.si.edu/browse-data) | eMammal is a data management system and archive for camera trap research projects. This cyber-tool is designed to not only be useful to scientists, but also to the citizen scientists who aid scientists in photo collection. 
 SystemaNaturae | [systemanaturae.org](https://systemanaturae.org/datasets) | Systema Naturae is a web platform and we index research Datasets and Conservation Projects on Wildlife. We believe in Open data and the Datasets in our website are either submitted by people from across the world or indexed by our web crawler which searches the internet actively for research Datasets and Projects.
 sPlot | [idiv.de](https://www.idiv.de/research/projects/splot) | sPlot contains more than 2.5 million records with full lists of plant species co-occurring in small areas (plots).
-The Ranges Project (Ranges) [ranges-network.org](https://ranges-network.org/) | Ranges is an NSF-funded project that seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
+The Ranges Project (Ranges) | [ranges-network.org](https://ranges-network.org/) | Ranges is an NSF-funded project that seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
 
 
 ## Physical World, Landscapes, and General Physical Sciences
