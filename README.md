@@ -16,7 +16,7 @@ My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This 
 
 <br>
 
-## Past Projects:
+## Past Projects (on Github):
 ### _Scale-dependent Responses to Habitat Configuration and Fragmentation in White-tailed Deer_ ([repo](https://github.com/oxyppgyn/deer-scale-frag-response))
 * My capstone research project for geography, focused on the effects of spatial scaling in ecological studies using white-tailed deer as a model. Note: currently only the final report and presentation are uploaded to this repo, code to be added later.
 ### _Assessing the Effects of Environmental Variables and Landscape Change on Tree Stands at The Ridges Land Lab_ ([repo](https://github.com/oxyppgyn/ou-field-ecology-tree-proj))
