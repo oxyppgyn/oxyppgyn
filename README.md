@@ -1,18 +1,18 @@
-# Hi there, I'm Tanner 🌎 🦌  🌱
-I'm a recent graduate of Ohio University, where I studied environmental biology and geography. My main focus is wildlife, with a specific interest in camera traps, citizen science data, landscape ecology, and computational methods in ecology. In the past, I've mainly done projects focused on camera traps and mammal populations and hope to continue working in this general area going forward. 
+# Hi there, I'm Tanner 🌎 🦌 🐺
+I'm a recent graduate of Ohio University, where I studied environmental biology and geography. My main focus is wildlife, with a specific interest in mammals (especially mustelids), camera traps, citizen science data, landscape ecology, and applied computational methods in ecology. In the past, I've mainly done projects focused on camera traps and mammal populations and hope to continue working in this general area going forward. 
 
-My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This version isn't always regularly update and can be a few months out of date.
+My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This version isn't always regularly update and can sometimes be a few months out of date.
 
 [Here](data_sources.md) is a list of data sources covering biological and spatial data that may be useful if you're searching for things to use (mainly for my own reference).
 
 <br>
 
 ## Current/Continuing Projects (on Github):
-### _CamRa_: R Package for managing camera trap data ([repo](https://github.com/oxyppgyn/camRa))
-* Package focusing on making it easier to deal with detection data (i.e., MegaDetector), manipulate images, and get pull data from images/camera trap-related files.
+### _parallel.lsm_: R Package for _landscapemetrics_ parallel processing ([repo](https://github.com/oxyppgyn/parallel.lsm))
+* Package focused on letting you calculate landscape metrics faster by running functions in parallel. Mostly finished development.
 
-### Weasel distribution models for Ohio & Indiana ([repo](https://github.com/oxyppgyn/oh-in-weasel-dist-model))
-* Modeling project using integrated nested Laplace approximation (INLA) to model the distributions (or, more specifically relative abundance) of three species of weasel across Ohio and Indiana
+### _CamRa_: R Package for managing camera trap data ([repo](https://github.com/oxyppgyn/camRa))
+* Package focusing on making it easier to deal with detection data (i.e., MegaDetector), manipulate images, and get pull data from images/camera trap-related files. In development.
 
 <br>
 
