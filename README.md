@@ -8,15 +8,15 @@ My CV can be found [here](Generalized%20CV%20-%20Hammond%2C%20Tanner.pdf). This 
 <br>
 
 ## Current/Continuing Projects (on Github):
-### _parallel.lsm_: R Package for _landscapemetrics_ parallel processing ([repo](https://github.com/oxyppgyn/parallel.lsm))
-* Package focused on letting you calculate landscape metrics faster by running functions in parallel. Mostly finished development.
-
 ### _CamRa_: R Package for managing camera trap data ([repo](https://github.com/oxyppgyn/camRa))
 * Package focusing on making it easier to deal with detection data (i.e., MegaDetector), manipulate images, and get pull data from images/camera trap-related files. In development.
 
 <br>
 
 ## Past Projects (on Github):
+### _parallel.lsm_: R Package for _landscapemetrics_ parallel processing ([repo](https://github.com/oxyppgyn/parallel.lsm))
+* Package focused on making running _landscapemetrics_ functions in parallel a little easier.
+
 ### _Scale-dependent Responses to Habitat Configuration and Fragmentation in White-tailed Deer_ ([repo](https://github.com/oxyppgyn/deer-scale-frag-response))
 * My capstone research project for geography, focused on the effects of spatial scaling in ecological studies using white-tailed deer as a model. Note: currently only the final report and presentation are uploaded to this repo, code to be added later.
 ### _Assessing the Effects of Environmental Variables and Landscape Change on Tree Stands at The Ridges Land Lab_ ([repo](https://github.com/oxyppgyn/ou-field-ecology-tree-proj))
